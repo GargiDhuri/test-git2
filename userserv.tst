@@ -1,1 +1,1 @@
-get user info
+get user info after tagged
